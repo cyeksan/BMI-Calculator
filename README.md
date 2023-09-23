@@ -1,6 +1,7 @@
 
 #  BMI Calculator
 A Swift app that calculates BMI using height and weight.
+
 MVC architecture has been used.
 
 https://github.com/cyeksan/BMI-Calculator/assets/34041050/8bb71012-90bd-4107-9e30-5479b90dd8c1
